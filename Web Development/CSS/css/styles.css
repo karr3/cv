@@ -1,0 +1,10 @@
+body {background-color: #080f2c; color: #f4f4ef;
+}
+hr { border-style: dotted none none; color: #2a414c; width: 30%; border-width: 10px;
+}
+h1 {color: #4e7970;}
+h3{color: #2C74B3;}
+.contact{color: #2C74B3;}
+.contact:hover{color: #2a414c;}
+.link{color: #f4f4ef;}
+.link:hover{color: #2a414c;}
